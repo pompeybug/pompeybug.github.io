@@ -1,8 +1,7 @@
 # Site settings
 title: PompeyBUG
 email: admin@pompeybug.org.uk
-description: >
-  Your voice for a cycle-friendly Portsmouth.
+description: Your voice for a cycle-friendly Portsmouth.
 baseurl: ""
 url: "http://pompeybug.org"
 twitter_username: pompeybug
@@ -15,7 +14,7 @@ gems:
 markdown: kramdown
 markdown_ext: "markdown,md"
 
-permalink: /:title/
+permalink: /:year/:month/:title/
 
 defaults:
   -
