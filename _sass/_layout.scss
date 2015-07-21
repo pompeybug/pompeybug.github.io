@@ -41,7 +41,7 @@ body {
                     display: inline-block;
                     padding: $small-gap $big-gap;
                     margin-bottom: $small-gap;
-                    width: 75%;
+                    width: 100%;
                     background: $pcf-grey;
                     z-index: 100;
                 }
@@ -64,7 +64,7 @@ body {
             }
         }
 
-        ul,ol {
+        ul,ol, pre {
             padding: $gap $huge-gap;
         }
 
@@ -187,6 +187,24 @@ body {
         }
 
         .split_main {
+        }
+
+        .donate {
+            background: $pcf-orange;
+            color: #fff;
+            float: right;
+            max-width: 20rem;
+            padding: 2*$huge-gap $huge-gap;
+            border-radius: $small-gap;
+            margin-left: $huge-gap;
+
+            p {
+                text-align: right;
+            }
+
+            input {
+                font-size: 140%;
+            }
         }
 
     }
