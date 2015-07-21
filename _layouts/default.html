@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <div class="flexible">
+        {% include nav.html %}
+        <main>
+            {% include todo.html %}
+            {{ content }}
+        </main>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

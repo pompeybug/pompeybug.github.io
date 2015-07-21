@@ -1,0 +1,9 @@
+{% if page.figure != null %}<figure>
+    <img src="/assets/{{page.figure}}" alt="{{page.caption}}" >
+
+    {% if page.caption != null %}
+        <figcaption>
+            {{page.caption}}
+        </figcaption>
+    {% endif %}
+</figure>{% endif %}

@@ -1,0 +1,26 @@
+@media print {
+    body {
+        background: white;
+
+        .flexible {
+            flex-direction: column;
+        }
+
+        nav {
+            display: none;
+        }
+
+        article {
+            box-shadow: none;
+        }
+
+        header, footer {
+            text-align: left;
+        }
+
+        a {
+            font-weight: bold;
+            color: black;
+        }
+    }
+}

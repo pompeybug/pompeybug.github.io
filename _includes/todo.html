@@ -1,0 +1,10 @@
+{% if page.todo != null %}
+<div class="todo">
+    <p>Please note&hellip;</p>
+    <ul>
+        {% for todo in page.todo %}
+            <li>{{todo}}</li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}

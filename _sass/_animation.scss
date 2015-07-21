@@ -1,0 +1,42 @@
+body {
+    nav {
+        >ul {
+            >li {
+                perspective: 20em;
+
+                >a {
+                    transition: transform $slow ease-in-out, background-color $slow ease-in-out, box-shadow $slow ease-in-out;
+                }
+
+                a:hover {
+                    transition: transform $fast ease-in-out, background-color $fast ease-in-out, box-shadow $fast ease-in-out;
+                    box-shadow: 0em 1em 2em rgba(0,0,0,0.23);
+                    transform: translate3d(0,0,1em);
+
+                }
+            }
+        }
+    }
+
+    main {
+        perspective: 100em;
+
+        article, article h1, article time {
+            transition: all $slow ease-in-out;
+        }
+
+        article.precis:hover {
+            box-shadow: 0em 1em 2em rgba(0,0,0,0.23);
+            transform: translate3d(0,0,1em);
+            transition: all $fast ease-in-out;
+
+            h1 {
+                border-bottom-left-radius: 0;
+            }
+
+            time {
+                border-bottom-right-radius: 0;
+            }
+        }
+    }
+}

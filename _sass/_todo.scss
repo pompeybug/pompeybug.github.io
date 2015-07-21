@@ -1,0 +1,14 @@
+.todo {
+    border: red solid thin;
+    color: red;
+    height: auto;
+    overflow: hidden;
+    padding: $gap;
+    opacity: 0.95;
+    margin: 0 auto $gap;
+    border-radius: $tiny-gap;
+
+    >p {
+        padding: 0;
+    }
+}

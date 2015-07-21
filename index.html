@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+    <article class="precis">
+        {% include heading.html %}
+        <a href="{{post.url}}">{{ post.content | strip_html | truncatewords: 50 }}</a>
+    </article>
+{% endfor %}
