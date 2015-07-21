@@ -6,10 +6,6 @@ tags:
   - Campaigns
   - Opinion
 date: 2014-12-31 18:19:21
-todo:
-  - Articles on this site are being migrated to a new format.
-  - <b>This page</b> has been automatically migrated, but requires a manual check-&amp;-tune to ensure the format and links all work as expected.
-  - This message will remain on this page until it has been checked.
 caption: Tommy Godwin, Year record holder (source Tommygodwin.com)
 figure: Tommy-Godwin-Year-record-holder-300x199.jpg
 ---
