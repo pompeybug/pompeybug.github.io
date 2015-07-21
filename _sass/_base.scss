@@ -19,12 +19,17 @@ a {
     color: $text-color;
 }
 
-main article {
-    p a,
-    ul a {
-        display: inline;
-        color: $pcf-green;
-        font-weight: bold;
+main {
+
+    article,
+    footer {
+
+        p a,
+        ul a {
+            display: inline;
+            color: $pcf-green;
+            font-weight: bold;
+        }
     }
 }
 
