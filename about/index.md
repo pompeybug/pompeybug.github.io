@@ -19,13 +19,13 @@ Portsmouth Cycle Forum welcomes individuals and representatives of organisations
 
 Between open meetings, a committee meets monthly and puts into effect the actions taken during open meetings.
 
-You can [join Portsmouth Cycle Forum] thorugh this website.
+You can [join Portsmouth Cycle Forum](/join/) thorugh this website.
 
 # Portsmouth Cycle Forum Constitution
 
 The latest copy of our constitution is linked below in PDF format.
 
-PCF Constitution v2.2
+[PCF Constitution v2.2](/assets/docs/PCF-Constitution-v2.2.pdf)
 
 # Get in touch
 For further details please get in touch by via [email](mailto:membership@pompeybug.org.uk?subject=Enquiry) or via [social media](/social).
