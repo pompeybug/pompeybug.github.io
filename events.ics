@@ -1,0 +1,22 @@
+---
+layout: null
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:{{site.url}}
+METHOD:PUBLISH
+{% for post in site.posts %}{% if post.layout == 'event' %}BEGIN:VEVENT
+UID:{{ post.event.date | date: "%Y%m%d%H%M%S" }}@{{site.url}}
+ORGANIZER;CN="{{post.event.contact}}":MAILTO:{{post.event.email}}
+LOCATION:{{post.event.location}}
+SUMMARY:{{ post.title }}
+DESCRIPTION:{{ post.content | strip_html | strip_newlines }}
+CLASS:PUBLIC
+DTSTART:{{ post.event.date | date: "%Y%m%dT%H%M%S" }}Z
+{% if post.event.end != null %}DTEND:{{ post.event.end | date: "%Y%m%dT%H%M%S" }}Z
+{% else %}{% if post.event.duration != null %}DURATION:PT{{ post.event.duration | date: "%MM" }}M
+{% endif %}{% endif %}DTSTAMP:{{ post.date | date: "%Y%m%dT%H%M%S" }}Z
+URL:{{site.url}}{{post.url}}
+END:VEVENT
+{% endif %}{% endfor %}
+END:VCALENDAR

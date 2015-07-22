@@ -208,6 +208,15 @@ body {
             }
         }
 
+        dt {
+            display: inline-block;
+            width: 7em;
+            float: left;
+        }
+        dl, dt, dd {
+            padding: $small-gap $gap;
+        }
+
     }
 
     footer {

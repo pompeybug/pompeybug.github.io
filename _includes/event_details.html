@@ -1,0 +1,16 @@
+{% assign post = page %}
+
+<dl>
+    <dt>Contact</dt><dd>{{post.event.contact}} &lt;{{post.event.email}}&gt;</dd>
+    <dt>Location</dt><dd>{{post.event.location}}</dd>
+    <dt>Date</dt><dd>{{ post.event.date | date: "%Y%m%d" }}</dd>
+    <dt>Time</dt><dd>{{ post.event.date | date: "%H:%M" }}</dd>
+
+{% if post.event.end != null %}
+    <dt>Until</dt><dd>{{ post.event.end | date: "%H:%M" }}</dd>
+{% else %}
+    {% if post.event.duration != null %}
+        <dt>Duration</dt><dd>{{ post.event.duration | date: "%H%M" }}</dd>
+    {% endif %}
+{% endif %}
+</dl>
