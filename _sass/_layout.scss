@@ -30,6 +30,9 @@ body {
         display: inline-block;
         min-width: 10rem;
 
+        .break {
+            margin-top: 1em;
+        }
 
         >ul {
             padding-right: 1em;
@@ -240,6 +243,10 @@ body {
         }
 
         nav {
+
+            .break {
+                margin-top: 0;
+            }
 
             >ul {
                 flex-direction: row;
