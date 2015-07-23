@@ -21,9 +21,13 @@ body {
 
 
     .flexible {
-      display: flex;
-      flex: 10 auto;
-      flex-direction: row;
+        display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+        display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+        display: -ms-flexbox;      /* TWEENER - IE 10 */
+        display: -webkit-flex;     /* NEW - Chrome */
+        display: flex;
+        flex: 10 auto;
+        flex-direction: row;
     }
 
     nav {
@@ -73,6 +77,10 @@ body {
         }
 
         header {
+            display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+            display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+            display: -ms-flexbox;      /* TWEENER - IE 10 */
+            display: -webkit-flex;
             display: flex;
         }
 
@@ -109,11 +117,19 @@ body {
                 width: 100%;
 
                 a {
+                    -webkit-box-flex: 3;      /* OLD - iOS 6-, Safari 3.1-6 */
+                    -moz-box-flex: 3;         /* OLD - Firefox 19- */
+                    -webkit-flex: 3;          /* Chrome */
+                    -ms-flex: 3;
                     flex: 3;
                 }
 
                 h1 {
                     font-family: 'Open Sans Condensed';
+                    -webkit-box-flex: 1;      /* OLD - iOS 6-, Safari 3.1-6 */
+                    -moz-box-flex: 1;         /* OLD - Firefox 19- */
+                    -webkit-flex: 1;          /* Chrome */
+                    -ms-flex: 1;
                     flex: 3;
                     padding: $small-gap $big-gap;
                     background: $pcf-green;
@@ -145,6 +161,10 @@ body {
                 time {
                   display: inline-block;
                   background: $pcf-grey;
+                  -webkit-box-flex: 1;      /* OLD - iOS 6-, Safari 3.1-6 */
+                  -moz-box-flex: 1;         /* OLD - Firefox 19- */
+                  -webkit-flex: 1;          /* Chrome */
+                  -ms-flex: 1;
                   flex: 1;
                   order: 2;
                   max-width: 5rem;
@@ -168,6 +188,10 @@ body {
 
                 img {
                     width: 100%;
+                    display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+                    display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+                    display: -ms-flexbox;      /* TWEENER - IE 10 */
+                    display: -webkit-flex;
                     display: flex;
                 }
 
@@ -223,6 +247,10 @@ body {
     }
 
     footer {
+        -webkit-box-flex: 3;      /* OLD - iOS 6-, Safari 3.1-6 */
+        -moz-box-flex: 3;         /* OLD - Firefox 19- */
+        -webkit-flex: 3;          /* Chrome */
+        -ms-flex: 3;
         flex:3;
         text-align: right;
     }
