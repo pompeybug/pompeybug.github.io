@@ -1,22 +1,14 @@
 ---
-layout: post
+layout: split
 title: Lakeside Planning Application Approved
-id: 3
 tags:
   - Campaigns
   - City Council
   - Cycle Routes
 date: 2009-12-10 13:39:30
-todo:
-  - Articles on this site are being migrated to a new format.
-  - <b>This page</b> has been automatically migrated, but requires a manual check-&amp;-tune to ensure the format and links all work as expected.
-  - This message will remain on this page until it has been checked.
+caption: 1000 Lakeside
+figure: me_1000_Lakeside.jpg
 ---
-
-<div id="bodyfields">
-<div>
-
-<figure id="attachment_4" align="alignright" width="250" caption="1000 Lakeside">![1000 Lakeside](http://www.pompeybug.co.uk/wp-content/uploads/2009/12/me_1000_Lakeside.jpg "1000 Lakeside")</figure>
 
 The deferred planning application for a new business development at Lakeside, North Harbour was approved at the City Council’s Planning Committee on 9 December.
 
@@ -28,15 +20,12 @@ Councillor Luke Stubbs (Conservative) spoke in favour of the proposals stressing
 
 Councillor Jacqui Hancock (Liberal Democrat) was silent throughout the proceedings with the exception of seconding Cllr Stubbs proposal.
 
-Councillor Jim Fleming (Liberal Democrat) sympathised with the objectors but felt that the developers had made efforts to accomodate the wishes of the city planners.
+Councillor Jim Fleming (Liberal Democrat) sympathised with the objectors but felt that the developers had made efforts to accommodate the wishes of the city planners.
 
-Councillor Donna Jones (Conservative) shared Cllr Phillip's view.  She said that it was a case of risk vs reward - the risk of increasing Portsmouth's carbon footprint vs the rewards of people having jobs in order to be able to buy bicycles to enjoy cycling.  She quoted a letter form a constituent who asked "if there were no more cars in Portsmouth, would the threat of flooding from the sea recede?"</div>
-<div></div>
-<div>
+Councillor Donna Jones (Conservative) shared Cllr Phillip's view.  She said that it was a case of risk vs reward - the risk of increasing Portsmouth's carbon footprint vs the rewards of people having jobs in order to be able to buy bicycles to enjoy cycling.  She quoted a letter form a constituent who asked "if there were no more cars in Portsmouth, would the threat of flooding from the sea recede?"
 
 Portsmouth Cycle Forum (PCF) committee member Mike Dobson made an impassioned plea to the committee not to approve the scheme.  Whilst PCF does not object to the development per-se, we have grave concerns that the transport plans make little provision for pedestrians and cyclists.
 
 This view was backed-up by CTC Right-to-Ride representative Jon Spencer.
 
-Whilst we are disappointed that the Lakeside development has been approved with inadequate sustainable transport provision, the developers, Highcross, have agreed to an open dialoge with us.  We look forward to a useful and constructive relationship which will bring benefits to pedestrians and cyclists.</div>
-</div>
+Whilst we are disappointed that the Lakeside development has been approved with inadequate sustainable transport provision, the developers, Highcross, have agreed to an open dialoge with us.  We look forward to a useful and constructive relationship which will bring benefits to pedestrians and cyclists.

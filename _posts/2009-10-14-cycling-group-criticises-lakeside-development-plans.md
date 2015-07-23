@@ -7,13 +7,9 @@ tags:
   - City Council
   - Cycle Routes
 date: 2009-10-14 00:00:00
-todo:
-  - Articles on this site are being migrated to a new format.
-  - <b>This page</b> has been automatically migrated, but requires a manual check-&amp;-tune to ensure the format and links all work as expected.
-  - This message will remain on this page until it has been checked.
+caption: Portsbridge Roundabout
+figure: me_Portsbridge_Roundabout_12Sep09_07a.jpg
 ---
-
-<figure id="attachment_426" align="alignleft" width="150" caption="Less than generous provision for cyclists at Portsbridge"][![Portsbridge Roundabout](http://www.pompeybug.co.uk/wp-content/uploads/2009/10/me_Portsbridge_Roundabout_12Sep09_07a-150x150.jpg "me_Portsbridge_Roundabout_12Sep09_07a")](http://www.pompeybug.co.uk/wp-content/uploads/2009/10/me_Portsbridge_Roundabout_12Sep09_07a.jpg)</figure>
 
 The delayed planning application for a new business development at Lakeside, North Harbour was deferred at the City Council’s Planning Committee on 14 October. The developers, Highcross, boast that the flagship scheme will have excellent ‘green’ credentials and claim that the it will encourage people to use sustainable travel (walking, cycling and buses). The Portsmouth Cycle Forum is one of many organisations objecting and has pointed out that the plans for the pedestrian and cycle routes to Lakeside are seriously inadequate.
 

@@ -1,18 +1,15 @@
 ---
-layout: post
+layout: split
 title: Family Christmas Cycle Ride
 id: 364
 tags:
   - Events
   - Rides
 date: 2009-12-06 00:00:00
-todo:
-  - Articles on this site are being migrated to a new format.
-  - <b>This page</b> has been automatically migrated, but requires a manual check-&amp;-tune to ensure the format and links all work as expected.
-  - This message will remain on this page until it has been checked.
+caption: Langstone Harbour Ride
+figure: me_Langstone_Harbour_circular_ride_leaflet_cover_500.jpg
 ---
 
-<figure id="attachment_377" align="alignleft" width="117" caption="Langstone Harbour Ride"][![Langstone Harbour Ride](http://www.pompeybug.co.uk/wp-content/uploads/2009/12/me_Langstone_Harbour_circular_ride_leaflet_cover_500.jpg "me_Langstone_Harbour_circular_ride_leaflet_cover_500")](http://www.pompeybug.co.uk/2009/12/family-christmas-cycle-ride/me_langstone_harbour_circular_ride_leaflet_cover_500/)</figure>
 
 Eleven hardy cyclists (including two under-fives) braved the stormy conditions for the Cycle Forum's first ever Christmas cycle ride on Sunday 6 December.
 

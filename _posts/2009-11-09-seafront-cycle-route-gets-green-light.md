@@ -1,19 +1,14 @@
 ---
 layout: post
 title: Seafront Cycle Route Gets Green Light
-id: 359
 tags:
   - Campaigns
   - City Council
   - Cycle Routes
 date: 2009-11-09 00:00:00
-todo:
-  - Articles on this site are being migrated to a new format.
-  - <b>This page</b> has been automatically migrated, but requires a manual check-&amp;-tune to ensure the format and links all work as expected.
-  - This message will remain on this page until it has been checked.
+caption: Southsea Seafront Contraflow
+figure: me_Southsea_seafront_contraflow_cycleway_CTC.jpg
 ---
-
-<figure id="attachment_405" align="alignright" width="150" caption="Southsea Seafront Contraflow"][![Southsea Seafront Contraflow](http://www.pompeybug.co.uk/wp-content/uploads/2009/11/me_Southsea_seafront_contraflow_cycleway_CTC1-150x150.jpg "me_Southsea_seafront_contraflow_cycleway_CTC")](http://www.pompeybug.co.uk/2009/11/seafront-cycle-route-gets-green-light/me_southsea_seafront_contraflow_cycleway_ctc-2/)</figure>
 
 Portsmouth City Council approved the first phase of the Southsea Seafront cycle route at the Cabinet Meeting on 9 November.
 

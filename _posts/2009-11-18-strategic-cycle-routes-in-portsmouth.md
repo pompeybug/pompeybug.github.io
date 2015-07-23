@@ -1,20 +1,14 @@
 ---
-layout: post
+layout: split
 title: Strategic Cycle Routes in Portsmouth
 id: 361
 tags:
   - Campaigns
   - Cycle Routes
 date: 2009-11-18 00:00:00
-todo:
-  - Articles on this site are being migrated to a new format.
-  - <b>This page</b> has been automatically migrated, but requires a manual check-&amp;-tune to ensure the format and links all work as expected.
-  - This message will remain on this page until it has been checked.
+caption: Strategic Cycle Routes
+figure: me_Strategic_cycle_routes_picture_1.jpg
 ---
-
-<figure id="attachment_385" align="alignleft" width="150" caption="Strategic Cycle Routes"][![](http://www.pompeybug.co.uk/wp-content/uploads/2009/11/me_Strategic_cycle_routes_picture_1-150x124.jpg "me_Strategic_cycle_routes_picture_1")](http://www.pompeybug.co.uk/2009/11/strategic-cycle-routes-in-portsmouth/me_strategic_cycle_routes_picture_1/)</figure>
-
-</strong>
 
 In conjunction with the CTC, Portsmouth Cycle Forum has produced a detailed assessment of the current strategic cycle routes in and out of Portsmouth.
 
