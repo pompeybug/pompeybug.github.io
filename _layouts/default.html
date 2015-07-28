@@ -1,3 +1,4 @@
+{% assign todo = false %}
 <!DOCTYPE html>
 <html>
   {% include head.html %}
@@ -6,7 +7,7 @@
     <div class="hvflex">
         {% include nav.html %}
         <main class="hvf">
-            {% include todo.html %}
+            {% if todo == true %}{% include todo.html %}{% endif %}
             {{ content }}
         </main>
     </div>
