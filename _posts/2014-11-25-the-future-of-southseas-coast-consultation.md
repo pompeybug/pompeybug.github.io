@@ -9,7 +9,7 @@ tags:
   - Environment
 date: 2014-11-25 19:55:01
 caption: Storm tide in Southsea
-figure: /assets/ESCP-Storm-photo.jpg
+figure: ESCP-Storm-photo.jpg
 ---
 
 **A CITY TO SHARE** includes accessibility for all to our coast and heritage. The proposed new flood defences for Southsea seafront present a once-in-a-lifetime opportunity to complete a missing section of the seafront cycle.
