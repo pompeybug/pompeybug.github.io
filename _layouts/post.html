@@ -4,6 +4,10 @@ layout: default
 
 <article>
     {% include heading.html %}
-    {% include post_figure.html %}
-    {{ content }}
+    <div class="split_small">
+        {% include post_figure.html %}
+    </div>
+    <div class="split_main">
+        {{ content }}
+    </div>
 </article>
