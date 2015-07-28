@@ -27,13 +27,13 @@ and:
 > 'It is mainly women who say that lack of confidence on the roads is a major reason why they don’t cycle/cycle more'.
 One example of this was Lynne Stagg, Lord Mayor and formerly Cabinet Member for Traffic and Transportation, who said in 2010: “I don’t cycle any more. The roads aren’t safe.”
 
-<figure id="attachment_4093" align="alignright" width="332">![Graph of total cycling casualties by year in Portsmouth](http://www.pompeybug.co.uk/wp-content/uploads/2014/05/oimg.png) Total cycling casualties by year in Portsmouth</figure>
+![Graph of total cycling casualties by year in Portsmouth](/assets/oimg.png)
 
 In Portsmouth, with the worst cycling casualty figures outside London and a widespread fear of cycling for safety reasons, fewer than 5% cycle to work - unchanged for a decade.
 
 In Copenhagen, which prioritises works to make cyclists safe, 36% commuted by bike, including children travelling to school.
 
-### Where do accidents happen?
+## Where do accidents happen?
 
 DfT's figures show that cyclists are four times more likely to be casualties on Urban A roads than on Urban Other roads.
 
@@ -43,7 +43,7 @@ Then add in parked cars, bus stops, multiple side roads, major junctions, rush h
 
 Portsmouth's road accident figures show this is a recipe for mayhem and it’s the vulnerable road users who are paying the price - with terrible consequences for families, friends and colleagues - years after the initial accident.
 
-### What can be done?
+## What can be done?
 
 Last year, when the 2011 figures came out, a PCC spokesperson said:
 > ‘...we are the most densely-populated area outside central London. As cyclists are more likely to have accidents on busy urban streets, this might also have an impact on our figures.’
