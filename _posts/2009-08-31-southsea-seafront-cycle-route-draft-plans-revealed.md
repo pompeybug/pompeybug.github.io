@@ -1,5 +1,5 @@
 ---
-layout: split
+layout: post
 title: Southsea Seafront Cycle Route draft plans revealed
 tags:
   - Campaigns

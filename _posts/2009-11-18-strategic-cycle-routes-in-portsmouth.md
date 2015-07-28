@@ -1,5 +1,5 @@
 ---
-layout: split
+layout: post
 title: Strategic Cycle Routes in Portsmouth
 id: 361
 tags:

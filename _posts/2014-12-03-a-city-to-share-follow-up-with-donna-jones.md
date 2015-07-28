@@ -6,7 +6,7 @@ tags:
 - Campaigns
 - Meetings
 figure: pcf-city-strategy-portrait-hr-thumb.png
-layout: split
+layout: post
 ---
 
 On Tuesday 2nd December Portsmouth Cycle Forum also met with the leader of PCC, Cllr Donna Jones, and the Cabinet Member for Traffic &amp; Transportation Cllr Ken Ellcome to follow up on the launch of our cycle strategy: [A City to Share](http://acitytoshare.org "A City to Share").

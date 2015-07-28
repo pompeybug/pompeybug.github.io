@@ -1,5 +1,5 @@
 ---
-layout: split
+layout: post
 title: 'New Goals for the New Year: Big dreams and big miles '
 id: 4289
 tags:

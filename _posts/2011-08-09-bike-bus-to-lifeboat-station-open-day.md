@@ -15,7 +15,7 @@ All aboard the bike bus to the lifeboat station open day.
 
 Join us for a ride to Ferry Road for the fun on Sunday 14th August. Check out the [Lifeboat station website](http://www.portsmouthlifeboat.co.uk/ "lifeboat station") for more details of the day. We will also be there [checking bikes over](http://www.pompeybug.co.uk/community/community-cycle-centre/ "CCC")
 
-<figure id="attachment_2645" align="alignright" width="150" caption="it&#39;ll look nothing like this!"][![bike bus](http://www.pompeybug.co.uk/wp-content/uploads/2011/08/bike-b-us1-150x150.jpg)](http://www.pompeybug.co.uk/2011/08/bike-bus-to-lifeboat-station-open-day/bike-b-us-2/)</figure>
+ caption="it&#39;ll look nothing like this!"][![bike bus](http://www.pompeybug.co.uk/wp-content/uploads/2011/08/bike-b-us1-150x150.jpg)](http://www.pompeybug.co.uk/2011/08/bike-bus-to-lifeboat-station-open-day/bike-b-us-2/)</figure>
 
 (in return for a small donation to the lifeboat station fundraising)
 

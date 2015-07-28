@@ -1,5 +1,5 @@
 ---
-layout: split
+layout: post
 title: What one thing would make cycling in Portsmouth better?
 id: 350
 tags:

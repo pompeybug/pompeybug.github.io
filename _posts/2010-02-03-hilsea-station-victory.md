@@ -7,13 +7,11 @@ tags:
   - City Council
   - Cycle Routes
 date: 2010-02-03 16:28:09
-todo:
-  - Articles on this site are being migrated to a new format.
-  - <b>This page</b> has been automatically migrated, but requires a manual check-&amp;-tune to ensure the format and links all work as expected.
-  - This message will remain on this page until it has been checked.
----
 
-<figure id="" align="alignright" width="213" caption="Hilsea Station">![Hilsea Station](http://upload.wikimedia.org/wikipedia/commons/9/93/Hilsea_railway_station.jpg "Hilsea Station")</figure>
+caption: Hilsea Station
+figure: https://upload.wikimedia.org/wikipedia/commons/e/ec/Hilsea_Station%2C_and_playing_fields._-_geograph.org.uk_-_81958.jpg
+credit: https://en.wikipedia.org/wiki/Hilsea_railway_station#/media/File:Hilsea_Station,_and_playing_fields._-_geograph.org.uk_-_81958.jpg
+---
 
 Portsmouth City Council's planning committee today approved plans for a shared pedestrian and cycle route linking Devon Road in Copnor to Hilsea station.
 

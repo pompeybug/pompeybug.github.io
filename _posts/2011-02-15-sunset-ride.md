@@ -13,7 +13,7 @@ todo:
 
 <div class="mceTemp">
 
-<figure id="attachment_1842" align="alignright" width="150" caption="with thanks to Ian Stannard"][![sunset](http://www.pompeybug.co.uk/wp-content/uploads/2011/02/sunset3-150x150.jpg)](http://www.pompeybug.co.uk/2011/02/sunset-ride/sunset-4/)</figure>
+ caption="with thanks to Ian Stannard"][![sunset](http://www.pompeybug.co.uk/wp-content/uploads/2011/02/sunset3-150x150.jpg)](http://www.pompeybug.co.uk/2011/02/sunset-ride/sunset-4/)</figure>
 
 This Wednesday 16th February we will be meeting near the Victoria Park play area at  5.15 to go on the Healthy [](http://www.pompeybug.co.uk/?attachment_id=1840)Pompey Sunset Ride. The route takes us around the less well known Horsea Island cycle route on the western side of Portsmouth. From the route we will enjoy some great views of the sun setting over Portsmouth Harbour.
 

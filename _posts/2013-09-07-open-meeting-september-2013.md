@@ -15,7 +15,7 @@ todo:
   - This message will remain on this page until it has been checked.
 ---
 
-<figure id="attachment_3822" align="alignright" width="150">![The Learning Place](http://www.pompeybug.co.uk/wp-content/uploads/2013/09/47_zq293t7iwz-150x150.png "The Learning Place") The Learning Place</figure>
+>![The Learning Place](http://www.pompeybug.co.uk/wp-content/uploads/2013/09/47_zq293t7iwz-150x150.png "The Learning Place") The Learning Place</figure>
 
 The next PCF open meeting will take place at 7pm on Thursday 12th September at The Learning Place.  We’ll be demonstrating Open Streetmap, the user-generated online mapping tool - this topic was deferred from the last meeting due to the discussion regarding the Fratton Way Tesco.  We'll also as well as talking about other important cycle-related issues, like the imminent Lord Mayor's bike ride and the changes to the one way system in Cosham.
 

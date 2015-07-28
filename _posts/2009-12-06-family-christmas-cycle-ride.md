@@ -1,5 +1,5 @@
 ---
-layout: split
+layout: post
 title: Family Christmas Cycle Ride
 id: 364
 tags:

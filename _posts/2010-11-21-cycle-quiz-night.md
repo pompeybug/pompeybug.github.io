@@ -1,5 +1,5 @@
 ---
-layout: split
+layout: post
 title: Cycle Quiz Night
 id: 1548
 tags:

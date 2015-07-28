@@ -7,13 +7,7 @@ tags:
   - Events
   - Rides
 date: 2010-01-21 19:52:22
-todo:
-  - Articles on this site are being migrated to a new format.
-  - <b>This page</b> has been automatically migrated, but requires a manual check-&amp;-tune to ensure the format and links all work as expected.
-  - This message will remain on this page until it has been checked.
 ---
-
-<figure id="attachment_map_568" align="alignleft" width="300" caption="Location of Hayling Billy Trail Opening"] <div align=center> [mappress] </div> </figure>
 
 The opening of the new section of the Hayling Billy Trail will take place at Havant Road Langstone, at the junction with Mill Lane, on the 26th Feb 2010 at 10.30 am.
 

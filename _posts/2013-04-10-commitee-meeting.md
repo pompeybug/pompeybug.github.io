@@ -15,7 +15,7 @@ todo:
   - This message will remain on this page until it has been checked.
 ---
 
-<figure id="attachment_3639" align="alignright" width="150"][![PCF Committee Meeting](http://www.pompeybug.co.uk/wp-content/uploads/2013/04/Universite-Paris-150x150.jpg)](http://www.pompeybug.co.uk/wp-content/uploads/2013/04/Universite-Paris.jpg) PCF Committee Meeting</figure>
+][![PCF Committee Meeting](http://www.pompeybug.co.uk/wp-content/uploads/2013/04/Universite-Paris-150x150.jpg)](http://www.pompeybug.co.uk/wp-content/uploads/2013/04/Universite-Paris.jpg) PCF Committee Meeting</figure>
 
 The next meeting of the Portsmouth Cycle Forum Committee will be this Friday (12th April 2013).
 

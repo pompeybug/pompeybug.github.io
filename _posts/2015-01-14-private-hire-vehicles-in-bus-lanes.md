@@ -1,5 +1,5 @@
 ---
-layout: split
+layout: post
 title: Private Hire Vehicles in Bus Lanes
 id: 4295
 tags:
@@ -16,4 +16,4 @@ You may know that Portsmouth has more cycling accidents per capita than most oth
 
 Allowing PHVs into cycle lanes would result in more occasions when cyclists and PHVs are in close proximity, and thus increase the likelihood of cyclist casualties in the one place where they currently have some protection from general traffic.  Portsmouth Cycle Forum therefore conclude that in its current form this proposal is a terrible idea.
 
-You can read our full response here: [PHVs in Bus Lanes - PCF Response](http://www.pompeybug.co.uk/wp-content/uploads/2015/01/PCFPrivateHireinBusLanes.pdf).
+You can read our full response here: [PHVs in Bus Lanes - PCF Response](/assets/docs/PCFPrivateHireinBusLanes.pdf).

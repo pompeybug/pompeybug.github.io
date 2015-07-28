@@ -1,5 +1,5 @@
 ---
-layout: split
+layout: post
 title: Portsmouth Cycle Forum Meeting
 tags:
   - Events

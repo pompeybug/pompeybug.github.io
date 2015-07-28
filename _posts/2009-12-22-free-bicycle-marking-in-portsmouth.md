@@ -1,5 +1,5 @@
 ---
-layout: split
+layout: post
 title: Free Bicycle Marking in Portsmouth
 tags:
   - Security

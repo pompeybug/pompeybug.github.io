@@ -11,7 +11,7 @@ todo:
   - This message will remain on this page until it has been checked.
 ---
 
-<figure id="attachment_1818" align="alignright" width="150" caption="Dutch cycle-chic - a crochet bike protector"][![Dutch cycle-chic - a crochet bike protector](http://www.pompeybug.co.uk/wp-content/uploads/2011/02/crochet-bike-protector-150x150.jpg "crochet-bike-protector")](http://www.pompeybug.co.uk/wp-content/uploads/2011/02/crochet-bike-protector.jpg)</figure>
+ caption="Dutch cycle-chic - a crochet bike protector"][![Dutch cycle-chic - a crochet bike protector](http://www.pompeybug.co.uk/wp-content/uploads/2011/02/crochet-bike-protector-150x150.jpg "crochet-bike-protector")](http://www.pompeybug.co.uk/wp-content/uploads/2011/02/crochet-bike-protector.jpg)</figure>
 
 The latest issue of the Cycle Forum's newsletter is now available.  Featuring news and views on cycling in the city we hope you will find this edition interesting and enjoyable.  We're always looking for contributions for future editions so please send them in.
 

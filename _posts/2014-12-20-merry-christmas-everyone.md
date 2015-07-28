@@ -1,5 +1,5 @@
 ---
-layout: split
+layout: post
 title: Merry Christmas Everyone
 id: 4283
 date: 2014-12-20 17:06:16

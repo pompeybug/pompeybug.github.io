@@ -1,5 +1,5 @@
 ---
-layout: split
+layout: post
 title: Lakeside Planning Application Approved
 tags:
   - Campaigns

@@ -11,7 +11,7 @@ todo:
   - This message will remain on this page until it has been checked.
 ---
 
-<figure id="attachment_2140" align="alignright" width="150" caption="picture courtesy of Mark Botham"][![zurich building](http://www.pompeybug.co.uk/wp-content/uploads/2011/03/zurich-150x150.jpg)](http://www.pompeybug.co.uk/2011/03/metropolis-ride-this-sunday/zurich/)</figure>
+ caption="picture courtesy of Mark Botham"][![zurich building](http://www.pompeybug.co.uk/wp-content/uploads/2011/03/zurich-150x150.jpg)](http://www.pompeybug.co.uk/2011/03/metropolis-ride-this-sunday/zurich/)</figure>
 
 This coming Sunday 27th March is the fabulous Metropolis Ride
 It starts in the Guildhall Square at 11am-3pm.

@@ -1,5 +1,5 @@
 ---
-layout: split
+layout: post
 title: PCF Newsletter September 2009
 id: 351
 tags:

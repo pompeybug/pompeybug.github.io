@@ -1,5 +1,5 @@
 ---
-layout: split
+layout: post
 title: A Short Tour of Portsmouth
 id: 4269
 tags:
