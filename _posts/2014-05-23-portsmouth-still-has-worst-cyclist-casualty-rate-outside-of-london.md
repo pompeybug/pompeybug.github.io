@@ -7,13 +7,9 @@ tags:
   - City Council
   - Cycle Routes
 date: 2014-05-23 10:37:45
-todo:
-  - Articles on this site are being migrated to a new format.
-  - <b>This page</b> has been automatically migrated, but requires a manual check-&amp;-tune to ensure the format and links all work as expected.
-  - This message will remain on this page until it has been checked.
+caption: Cyclist &amp; HGV collision Hilsea May 2011
+figure: Cyclist-HGV-collision-Hilsea-5may11-2-med-300x192.jpg
 ---
-
-<figure id="attachment_4088" align="alignright" width="300">![Cyclist &amp; HGV collision Hilsea May 2011](http://www.pompeybug.co.uk/wp-content/uploads/2014/05/Cyclist-HGV-collision-Hilsea-5may11-2-med-300x192.jpg) Cyclist &amp; HGV collision Hilsea May 2011</figure>
 
 For the second year running Portsmouth is the most dangerous place in England outside of London. Government statistics show that Portsmouth suffered 832 cyclist casualties per million population in 2012.
 
