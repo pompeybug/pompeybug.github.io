@@ -1,0 +1,91 @@
+li {
+/* display: inline-block; */
+}
+
+@mixin vendor-prefix($name, $argument) {
+  -webkit-#{$name}: #{$argument};
+  -ms-#{$name}: #{$argument};
+  -moz-#{$name}: #{$argument};
+  -o-#{$name}: #{$argument};
+  #{$name}: #{$argument};
+}
+
+body {
+    main {
+        header {
+            @include vendor-prefix(display, flex);
+            @include vendor-prefix(align-items, stretch);
+
+            h1, time {
+                @include vendor-prefix(display, flex);
+                @include vendor-prefix(align-items, center);
+                @include vendor-prefix(align-content, stretch);
+            }
+
+            h1 {
+                @include vendor-prefix(flex, 3);
+            }
+            time {
+                @include vendor-prefix(flex, 1);
+            }
+        }
+        article {
+            figure {
+                img {
+                    @include vendor-prefix(display, flex);
+                }
+            }
+        }
+    }
+}
+
+.vhflex {
+    @include vendor-prefix(display, flex);
+    @include vendor-prefix(flex-direction, column);
+}
+
+.vhf {
+    @include vendor-prefix(flex, 0);
+}
+
+.hvflex {
+    @include vendor-prefix(display, flex);
+    @include vendor-prefix(flex-direction, row);
+}
+
+.hvf {
+    @include vendor-prefix(flex, 1);
+}
+
+main.hvf {
+    @include vendor-prefix(flex, 4);
+}
+
+.wrapflex {
+    flex-wrap: wrap;
+}
+
+article>header {
+    @include vendor-prefix(display, flex);
+    @include vendor-prefix(align-items, center);
+
+    a {
+        @include vendor-prefix(flex, 2);
+    }
+    time {
+        @include vendor-prefix(flex, 1);
+        @include vendor-prefix(flex-basis, 4em);
+    }
+}
+
+@media screen and (max-width: $on-palm) {
+
+  .vhflex {
+      @include vendor-prefix(flex-direction, row);
+  }
+
+
+  .hvflex {
+      @include vendor-prefix(flex-direction, column);
+  }
+}

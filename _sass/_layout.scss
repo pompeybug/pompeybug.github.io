@@ -19,30 +19,16 @@ body {
     }
 
 
-
-    .flexible {
-        display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
-        display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
-        display: -ms-flexbox;      /* TWEENER - IE 10 */
-        display: -webkit-flex;     /* NEW - Chrome */
-        display: flex;
-        flex: 10 auto;
-        flex-direction: row;
-    }
-
     nav {
         display: inline-block;
         min-width: 10rem;
-
-        .break {
-            margin-top: 1em;
-        }
 
         >ul {
             padding-right: 1em;
             padding-bottom: 1em;
             list-style: none;
             >li {
+                min-width: 9em;
                 >a {
                     border-radius: $small-gap;
                     text-decoration: none;
@@ -76,15 +62,6 @@ body {
             padding: $gap $huge-gap;
         }
 
-        header {
-            display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
-            display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
-            display: -ms-flexbox;      /* TWEENER - IE 10 */
-            display: -webkit-flex;
-            display: flex;
-        }
-
-
         article.precis {
             h1 {
                 font-size: 140%;
@@ -97,6 +74,7 @@ body {
                 padding: $gap;
                 line-height: $base-line-height*0.8;
                 min-height: $base-line-height*1.5;
+                width: 6em;
             }
 
          }
@@ -114,40 +92,18 @@ body {
 
 
             header {
-                width: 100%;
-
-                a {
-                    -webkit-box-flex: 3;      /* OLD - iOS 6-, Safari 3.1-6 */
-                    -moz-box-flex: 3;         /* OLD - Firefox 19- */
-                    -webkit-flex: 3;          /* Chrome */
-                    -ms-flex: 3;
-                    flex: 3;
-                }
 
                 h1 {
                     font-family: 'Open Sans Condensed';
-                    -webkit-box-flex: 1;      /* OLD - iOS 6-, Safari 3.1-6 */
-                    -moz-box-flex: 1;         /* OLD - Firefox 19- */
-                    -webkit-flex: 1;          /* Chrome */
-                    -ms-flex: 1;
-                    flex: 3;
                     padding: $small-gap $big-gap;
                     background: $pcf-green;
                     color: $background-color;
-
-                    border-radius: $small-gap 0 0 $small-gap;
-
-                    line-height: $base-line-height*0.8;
-                    min-height: $base-line-height*0.8;
+                    border-radius: $small-gap;
                     vertical-align: middle;
-
-                    >a{
-                        color: $background-color;
-                    }
                 }
 
                 h1, h2, time {
-                    min-height: 3rem;
+                    line-height: $base-line-height*0.8;
                 }
 
                 h1 {
@@ -159,18 +115,13 @@ body {
                 }
 
                 time {
-                  display: inline-block;
                   background: $pcf-grey;
-                  -webkit-box-flex: 1;      /* OLD - iOS 6-, Safari 3.1-6 */
-                  -moz-box-flex: 1;         /* OLD - Firefox 19- */
-                  -webkit-flex: 1;          /* Chrome */
-                  -ms-flex: 1;
-                  flex: 1;
-                  order: 2;
-                  max-width: 5rem;
+                  max-width: 7rem;
                   text-align: center;
-                  vertical-align: middle;
-                  border-radius: 0 $small-gap $small-gap 0;
+                  margin-left: $gap;
+                  border-radius: $small-gap;
+                  padding-left: $gap;
+                  padding-right: $gap;
                 }
 
             }
@@ -188,11 +139,7 @@ body {
 
                 img {
                     width: 100%;
-                    display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
-                    display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
-                    display: -ms-flexbox;      /* TWEENER - IE 10 */
-                    display: -webkit-flex;
-                    display: flex;
+                    border-radius: $small-gap $small-gap 0 0;
                 }
 
                 >figcaption {
@@ -212,6 +159,7 @@ body {
             width: 45%;
             padding-left: 5%;
             padding-bottom: 1rem;
+            padding-top: 2rem;
         }
 
         .split_main {
@@ -247,11 +195,6 @@ body {
     }
 
     footer {
-        -webkit-box-flex: 3;      /* OLD - iOS 6-, Safari 3.1-6 */
-        -moz-box-flex: 3;         /* OLD - Firefox 19- */
-        -webkit-flex: 3;          /* Chrome */
-        -ms-flex: 3;
-        flex:3;
         text-align: right;
     }
 
@@ -262,9 +205,6 @@ body {
 @media screen and (max-width: $on-palm) {
 
     body {
-        .flexible {
-          flex-direction: column;
-        }
 
         >header {
             margin-bottom: $gap;
@@ -272,22 +212,16 @@ body {
 
         nav {
 
-            .break {
-                margin-top: 0;
-            }
-
             >ul {
-                flex-direction: row;
-                flex-wrap: wrap;
 
                 >li {
-                    display: inline;
-                    flex: 1;
-                    margin: $gap 0.25rem;
+                    min-width: 9em;
+                    margin: $small-gap;
 
                     >a {
-                        width: 10em;
+                        width: 100%;
                         text-align: center;
+                        padding: $small-gap;
                     }
                 }
             }
