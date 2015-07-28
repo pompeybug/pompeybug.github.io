@@ -9,13 +9,10 @@ tags:
   - Meetings
   - PCF
 date: 2014-02-14 22:11:08
-todo:
-  - Articles on this site are being migrated to a new format.
-  - <b>This page</b> has been automatically migrated, but requires a manual check-&amp;-tune to ensure the format and links all work as expected.
-  - This message will remain on this page until it has been checked.
+caption: Eric Booth talks about Freedom to Ride
+figure: IMG_1971edit-300x225.jpg
 ---
 
-<figure id="attachment_3928" align="alignright" width="300">![Eric Booth talks about Freedom to Ride](http://www.pompeybug.co.uk/wp-content/uploads/2014/02/IMG_1971edit-300x225.jpg) Eric Booth talks about Freedom to Ride</figure>
 
 Portsmouth Cyclists turned out in numbers last night for Portsmouth Cycle Forum’s “Dutch Style, Bristol Fashion” meeting. The room, provided by the University student’s union, was packed with riders keen to hear how cycling is being encouraged across the country. Roger Geffen, campaigns and policy director of the national cycling charity CTC and Eric Booth, chair of Bristol Cycle Campaign travelled to Portsmouth to share their experience.
 
@@ -31,5 +28,5 @@ Lord Mayor Lynne Stagg was on hand to promote her charity bike ride, which takes
 
 #### Presentations
 
-*   [Roger Geffen - Space for Cycling](http://www.pompeybug.co.uk/wp-content/uploads/2014/02/1402_Portsmouth-Cycle-Forum_Space-for-cycling_pres.pdf)
-*   [Eric Booth - Freedom to Ride](http://www.pompeybug.co.uk/wp-content/uploads/2014/02/Presentation-to-Portsmouth-Bike-Forum-Feb-2014.pdf)
+*   [Roger Geffen - Space for Cycling](/assets/docs/1402_Portsmouth-Cycle-Forum_Space-for-cycling_pres.pdf)
+*   [Eric Booth - Freedom to Ride](/assets/docs/Presentation-to-Portsmouth-Bike-Forum-Feb-2014.pdf)
