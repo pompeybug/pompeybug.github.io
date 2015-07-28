@@ -7,11 +7,9 @@ layout: post
 
 Many of our members are active daily on Facebook. The [Portsmouth Cycle Forum group](https://www.facebook.com/groups/pompeybug/?fref=pompeybug_org) has many hundreds of members.
 
-
 # Twitter
 
 Our official twitter id is [@pompeybug](https://twitter.com/pompeybug).
-
 
 # GitHub
 
