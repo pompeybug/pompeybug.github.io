@@ -8,13 +8,11 @@ tags:
   - Cycle Routes
   - Environment
 date: 2014-11-25 19:55:01
-todo:
-  - Articles on this site are being migrated to a new format.
-  - <b>This page</b> has been automatically migrated, but requires a manual check-&amp;-tune to ensure the format and links all work as expected.
-  - This message will remain on this page until it has been checked.
+caption: Storm tide in Southsea
+figure: /assets/ESCP-Storm-photo.jpg
 ---
 
-**[![Storm tide in Southsea](http://www.pompeybug.co.uk/wp-content/uploads/2014/11/ESCP-Storm-photo.jpg)](http://www.pompeybug.co.uk/wp-content/uploads/2014/11/ESCP-Storm-photo.jpg)A CITY TO SHARE** includes accessibility for all to our coast and heritage. The proposed new flood defences for Southsea seafront present a once-in-a-lifetime opportunity to complete a missing section of the seafront cycle.
+**A CITY TO SHARE** includes accessibility for all to our coast and heritage. The proposed new flood defences for Southsea seafront present a once-in-a-lifetime opportunity to complete a missing section of the seafront cycle.
 
 Do you want a cycle route along the seafront between the two piers so that you and your family can cycle without fear of being squeezed or reversed into? The consultation has a question on cycling so it's important to respond.
 
