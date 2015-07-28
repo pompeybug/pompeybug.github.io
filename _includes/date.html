@@ -1,1 +1,16 @@
-<time datetime="{{ page.date | date: "%Y-%m-%d" }}{{ post.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%Y<wbr> <nobr>%m-%d</nobr>" }}{{ post.date | date: "%Y<wbr> <nobr>%m-%d</nobr>" }}</time>
+
+
+<time datetime="{{ page.date | date: "%Y-%m-%d" }}{{ post.date | date: "%Y-%m-%d" }}">
+{% if post != null %}
+    {% assign post = page %}
+{% endif %}{% assign d = page.date | date: "%-d" %}{% assign m = page.date | date: "%B" %}{% case d %}
+  {% when '1' or '21' or '31' %}{{ d }}st
+  {% when '2' or '22' %}{{ d }}nd
+  {% when '3' or '23' %}{{ d }}rd
+  {% else %}{{ d }}th
+{% case m %}
+  {% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
+  {% when 'September' %}Sept.
+  {% else %}{{ page.date | date: "%b" }}.{% endcase %}{% endcase %}
+{{ page.date | date: "%Y" }}
+</time>
