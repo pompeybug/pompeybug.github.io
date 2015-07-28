@@ -1,3 +1,22 @@
+@mixin pcf_button() {
+    border-radius: $small-gap;
+    text-decoration: none;
+    display: inline-block;
+    padding: $small-gap $big-gap;
+    margin-bottom: $small-gap;
+    background: $pcf-grey;
+    z-index: 100;
+}
+
+.button {
+    @include pcf_button();
+}
+
+.disabled {
+    color: #777;
+}
+
+
 body {
     padding: 1rem;
 
@@ -30,18 +49,11 @@ body {
             >li {
                 min-width: 9em;
                 >a {
-                    border-radius: $small-gap;
-                    text-decoration: none;
-                    display: inline-block;
-                    padding: $small-gap $big-gap;
-                    margin-bottom: $small-gap;
+                    @include pcf_button();
                     width: 100%;
-                    background: $pcf-grey;
-                    z-index: 100;
                 }
                 a:hover {
                     background: white;
-                    z-index: 200;
                 }
             }
         }

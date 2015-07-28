@@ -1,0 +1,37 @@
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <span class="button">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Newer</a>
+    </span>
+  {% else %}
+    <span class="button disabled">&laquo; Newer</span>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <span class="button">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older &raquo;</a>
+    </span>
+  {% else %}
+    <span class="button disabled">Older &raquo;</span>
+  {% endif %}
+</div>
+{% else %}
+
+    {% if page.next %}
+      <span class="button">
+      <a href="{{ page.next.url }}">&laquo; Newer</a>
+      </span>
+    {% else %}
+      <span class="button disabled">&laquo; Newer</span>
+    {% endif %}
+
+    {% if page.previous %}
+      <span class="button">
+      <a href="{{ page.previous.url }}">Older &raquo;</a>
+      </span>
+    {% else %}
+      <span class="button disabled">Older &raquo;</span>
+    {% endif %}
+
+{% endif %}
