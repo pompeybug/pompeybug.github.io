@@ -1,0 +1,130 @@
+li {
+/* display: inline-block; */
+}
+
+body {
+    main {
+        header {
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flexbox;
+            display: -webkit-flex;
+
+            align-items: stretch;
+
+            h1, time {
+                display: -webkit-box;
+                display: -moz-box;
+                display: -ms-flexbox;
+                display: flex;
+
+                align-items: center;
+                align-content: stretch;
+            }
+
+            h1 {
+                -webkit-box-flex: 3;
+                -moz-box-flex: 3;
+                -webkit-flex: 3;
+                -ms-flex: 3;
+            }
+            time {
+                -webkit-box-flex: 1;
+                -moz-box-flex: 1;
+                -webkit-flex: 1;
+                -ms-flex: 1;
+            }
+        }
+        article {
+            figure {
+                img {
+                    display: -webkit-box;
+                    display: -moz-box;
+                    display: -ms-flexbox;
+                    display: -webkit-flex;
+                }
+            }
+        }
+    }
+}
+
+.vhflex {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+
+    -webkit-box-orient: vertical;
+    -webkit-flex-direction: column;
+}
+
+.vhf {
+    -webkit-box-flex: 0;
+    -moz-box-flex: 0;
+    -webkit-flex: 0;
+    -ms-flex: 0;
+}
+
+.hvflex {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-box-orient: horizontal;
+    -webkit-flex-direction: row;
+}
+
+.hvf {
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+}
+
+main.hvf {
+    -webkit-box-flex: 4;
+    -moz-box-flex: 4;
+    -webkit-flex: 4;
+    -ms-flex: 4;
+}
+
+.wrapflex {
+    flex-wrap: wrap;
+}
+
+article>header {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+
+    align-items: center;
+
+    a {
+        -webkit-box-flex: 2;
+        -moz-box-flex: 2;
+        -webkit-flex: 2;
+        -ms-flex: 2;
+    }
+    time {
+        -webkit-box-flex: 1;
+        -moz-box-flex: 1;
+        -webkit-flex: 1;
+        -ms-flex: 1;
+        flex-basis: 4em;
+    }
+}
+
+@media screen and (max-width: $on-palm) {
+
+  .vhflex {
+      -webkit-box-orient: horizontal;
+      -webkit-flex-direction: row;
+  }
+
+
+  .hvflex {
+      -webkit-box-orient: vertical;
+      -webkit-flex-direction: column;
+  }
+}
