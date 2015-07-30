@@ -11,6 +11,7 @@ body {
             display: -webkit-flex;
 
             align-items: stretch;
+            -ms-flex-align: stretch;
 
             h1, time {
                 display: -webkit-box;
@@ -19,7 +20,9 @@ body {
                 display: flex;
 
                 align-items: center;
+                -ms-flex-align: center;
                 align-content: stretch;
+                -ms-flex-line-pack: stretch;
             }
 
             h1 {
@@ -56,6 +59,7 @@ body {
 
     -webkit-box-orient: vertical;
     -webkit-flex-direction: column;
+    -ms-flex-direction: column;
 }
 
 .vhf {
@@ -72,6 +76,7 @@ body {
     display: -webkit-flex;
     -webkit-box-orient: horizontal;
     -webkit-flex-direction: row;
+    -ms-flex-direction: row;
 }
 
 .hvf {
@@ -99,6 +104,7 @@ article>header {
     display: -webkit-flex;
 
     align-items: center;
+    -ms-flex-align: center;
 
     a {
         -webkit-box-flex: 2;
@@ -120,11 +126,13 @@ article>header {
   .vhflex {
       -webkit-box-orient: horizontal;
       -webkit-flex-direction: row;
+      -ms-flex-direction: row;
   }
 
 
   .hvflex {
       -webkit-box-orient: vertical;
       -webkit-flex-direction: column;
+      -ms-flex-direction: column;
   }
 }
