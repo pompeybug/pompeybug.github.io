@@ -5,13 +5,9 @@ id: 4181
 tags:
   - Events
 date: 2014-08-29 11:22:07
-todo:
-  - Articles on this site are being migrated to a new format.
-  - <b>This page</b> has been automatically migrated, but requires a manual check-&amp;-tune to ensure the format and links all work as expected.
-  - This message will remain on this page until it has been checked.
 ---
 
-[![Poster for Bicycle - the film](http://www.pompeybug.co.uk/wp-content/uploads/2014/08/Bicycle-film-poster-s-203x300.jpg)](http://www.pompeybug.co.uk/wp-content/uploads/2014/08/Bicycle-film-poster-s.jpg)BICYCLE is a great new film about the history, culture and future of the bicycle.
+![Poster for Bicycle - the film](/assets/Bicycle-film-poster-s-203x300.jpg)<br />BICYCLE is a great new film about the history, culture and future of the bicycle.
 
 You can see it on the big screen in Guildhall Square on Tuesday 16 September at 6pm.
 

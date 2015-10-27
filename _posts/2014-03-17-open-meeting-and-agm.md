@@ -6,13 +6,10 @@ tags:
   - Meetings
   - PCF
 date: 2014-03-17 19:14:31
-todo:
-  - Articles on this site are being migrated to a new format.
-  - <b>This page</b> has been automatically migrated, but requires a manual check-&amp;-tune to ensure the format and links all work as expected.
-  - This message will remain on this page until it has been checked.
 ---
 
-![Portsmouth Cathedral of St John the Evangelist](http://www.pompeybug.co.uk/wp-content/uploads/2014/03/Portsmouth-Cathedral-of-St-John-the-Evangelist.jpg)Our next meeting is on Thursday 20 March 7pm at the [Discovery Centre, Portsmouth RC Cathedral](http://pompeybug.us5.list-manage.com/track/click?u=2ed916007f1c294faa614a50f&amp;id=695fc5911f&amp;e=a2b0169ef7 "Meeting Location").
+![Portsmouth Cathedral of St John the Evangelist](/assets/Portsmouth-Cathedral-of-St-John-the-Evangelist.jpg)<br />
+Our next meeting is on Thursday 20 March 7pm at the [Discovery Centre, Portsmouth RC Cathedral](http://pompeybug.us5.list-manage.com/track/click?u=2ed916007f1c294faa614a50f&amp;id=695fc5911f&amp;e=a2b0169ef7 "Meeting Location").
 
 We'll be reviewing the outcomes of the last two meetings and forming our plan about how we can put the ideas into practice. Remembering the support given by Gerald Vernon-Jackson (leader of PCC) at the last meeting we’ll be fleshing out our plan to catch up with Bristol. We’ll be looking for volunteers from the floor to start working something up - if you fancy getting involved - or just to find out more - come along!
 

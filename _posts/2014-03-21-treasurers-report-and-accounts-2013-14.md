@@ -27,34 +27,29 @@ Subscriptions:   For the next year membership subscriptions will remain at £5
 
 <span style="text-decoration: underline">Important Note</span>:  We need to make a serious effort to convert subscribers on our mailing list to paid-up members.  If we are to make use of central locations we need to increase the number of membership subscriptions and donations to offset the costs.  Additional income will allow the Forum to expand its activities through promotion.
 
-**Income**
-
-Subscriptions 2013-14                  149.68
-
-Total Income                               <span style="text-decoration: underline">149.68</span>
-
-**Expenditure**
-
-Printing                                       148.70
-
-Website                                       121.64
-
-Hall hire                                        10.00
-
-Subscriptions to CTC/CN               80.00
-
-Total Expenditure                        <span style="text-decoration: underline">360.34</span>
-
-**2013-14 deficit**                           <span style="text-decoration: underline">£210.66</span>
-
-**Assets**
-
-Bank                                            202
-
-Paypal                                           60
-
-**Current Assets**                          <span style="text-decoration: underline">£262</span>               (from £411 in March 2013)
-
+|-----------------------+-----------------------+-----------------------|
+|**Income**				|						|						|
+|:----------------------|----------------------:|-----------------------|
+|Subscriptions 2013-14	|149.68 				|						|
+|:----------------------|----------------------:|-----------------------|
+|Total Income			|**£149.68**			|						|
+|-----------------------+-----------------------+-----------------------|
+|**Expenditure**		|						|						|
+|:----------------------|----------------------:|-----------------------|
+|Printing				|148.70					|						|
+|Website				|121.64					|						|
+|Hall hire				|10.00					|						|
+|Subscriptions to CTC/CN|80.00					|						|
+|**Total Expenditure**	|**£360.34**			|						|
+|:----------------------|----------------------:|-----------------------|
+|**2013-14 deficit**	|**£210.66** 			|						|
+|:----------------------|----------------------:|-----------------------|
+|**Assets**				|						|						|
+|:----------------------|----------------------:|-----------------------|
+|Bank					|202					|						|
+|Paypal                 |60						|						|
+|**Current Assets**		|**£262** (from £411 in March 2013)|			|
+|-----------------------+-----------------------+-----------------------|
 
 Roger Inkpen
 

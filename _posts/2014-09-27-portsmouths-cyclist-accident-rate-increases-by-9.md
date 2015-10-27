@@ -6,13 +6,14 @@ tags:
   - Campaigns
   - City Council
 date: 2014-09-27 20:31:29
-todo:
-  - Articles on this site are being migrated to a new format.
-  - <b>This page</b> has been automatically migrated, but requires a manual check-&amp;-tune to ensure the format and links all work as expected.
-  - This message will remain on this page until it has been checked.
+layout: post
+TODO: figure out why first line of paragraph dumps the last word (in standard font size) to a new line ...?
 ---
 
-The number of cyclists injured on Portsmouth’s roads has worsened.  Last year Portsmouth had England’s worst rate of cycle accidents outside of London. The number of accidents in which a cyclist is injured has now increased to 906 casualties per million of population from 832 per million in 2012.  This is an increase of 9%.
+\\
+The number of cyclists injured on Portsmouth’s roads has worsened.
+
+Last year Portsmouth had England’s worst rate of cycle accidents outside of London. The number of accidents in which a cyclist is injured has now increased to 906 casualties per million of population from 832 per million in 2012.  This is an increase of 9%.
 
 By comparison, Waltham Forest, with the same population density as Portsmouth, had less than half our accident rate (429 per million).  Southampton's rate was also much lower, at 520 per million.
 
