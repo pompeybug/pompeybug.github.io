@@ -7,13 +7,9 @@ tags:
   - City Council
   - Meetings
 date: 2014-06-27 07:33:03
-todo:
-  - Articles on this site are being migrated to a new format.
-  - <b>This page</b> has been automatically migrated, but requires a manual check-&amp;-tune to ensure the format and links all work as expected.
-  - This message will remain on this page until it has been checked.
 ---
 
-<figure id="attachment_4135" align="alignright" width="300">![Cyclist HGV Incident Hilsea](http://www.pompeybug.co.uk/wp-content/uploads/2014/06/Cyclist-HGV-collision-Hilsea-5may11-2-med-300x192.jpg) Cyclist and HGV Incident in Hilsea</figure>
+![Cyclist HGV Incident Hilsea](/assets/Cyclist-HGV-collision-Hilsea-5may11-2-med-300x192.jpg "Cyclist and HGV Incident in Hilsea")
 
 Do you cycle in Portsmouth? Perhaps you would like to cycle in Portsmouth but are nervous about the roads?
 Last month Portsmouth Cycle Forum revealed that Portsmouth’s roads are amongst the most dangerous in the country for cyclists. If you think the roads in Portsmouth need to be safer for cyclists the please come to this meeting.

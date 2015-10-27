@@ -5,13 +5,9 @@ id: 4252
 tags:
   - Opinion
 date: 2014-11-15 17:13:45
-todo:
-  - Articles on this site are being migrated to a new format.
-  - <b>This page</b> has been automatically migrated, but requires a manual check-&amp;-tune to ensure the format and links all work as expected.
-  - This message will remain on this page until it has been checked.
 ---
 
-<figure id="attachment_4253" align="alignright" width="300">![Tom Simpson](http://www.pompeybug.co.uk/wp-content/uploads/2014/11/Tom-Simpson-008-300x180.jpg) Tom Simpson</figure>
+![attachment_4253](/assets/Tom-Simpson-008-300x180.jpg "Tom Simpson")
 
 Recently the topic of [**The Rules**](http://www.velominati.com/the-rules/ "The Rules") has popped it's head up in a couple of discussions over on the [book of faces](https://www.facebook.com/groups/pompeybug/ "Portsmouth Cycle Forum on Facebook"). I should say up front, for people who worry about these things, that The Rules aren't real rules. They are meant to be a tongue in cheek guide to how one should present oneself and one's bicycle if one wishes to be seen as a 'real' cyclist (what is a real cyclist? Good question, and I'll come back to that).
 
